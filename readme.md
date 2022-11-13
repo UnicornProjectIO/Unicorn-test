@@ -2,7 +2,7 @@
 ---
 ## What is the Unicorn-test?
 
-Unicorn-test is a easy to use Javascript testing framework. QUnit has no dependencies and supports all major web browsers.
+Unicorn-test is a easy to use Javascript testing framework. Unicorn-test has no dependencies and supports all modern web browsers.
 
 
 # Browser Support
@@ -22,6 +22,4 @@ If you need to report a bug or a request a new feature , you can open an issue.
 
 ----
 
-Apache License
-
-
+Apache v2 License
