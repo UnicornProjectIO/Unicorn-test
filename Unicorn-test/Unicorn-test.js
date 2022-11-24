@@ -1,8 +1,8 @@
 function test(a,b)
   {
     if (a==b){
-    console.log(a+" and "+b+"are equal");
+    console.log(a+" "+b+" are true");
     }else{
-    console.log(a+" and "+b+" are different.");
+    console.log(a+" "+b+" are false.");
 
   }
