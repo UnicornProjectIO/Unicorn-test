@@ -1,6 +1,6 @@
 /*!
  * Unicorn-test v1.0
- * Released under the GPL License.
+ * Released under the Apache v2 License.
  */
 
 function test(a,b)
