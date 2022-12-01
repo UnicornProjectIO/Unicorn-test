@@ -6,8 +6,8 @@
 function test(a,b)
   {
     if (a==b){
-    console.log(a+" "+b+" are true");
+    console.log("[Success]"+a+" "+b);
     }else{
-    console.log(a+" "+b+" are false.");
+    console.log("[Error]"+a+" "+b+" are false.");
 
   }
